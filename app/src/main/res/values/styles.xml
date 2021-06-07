@@ -1,0 +1,9 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar"/>
+    <style name="DarkBG">
+        <item name="android:background">#80000000</item>
+    </style>
+</resources>
+
